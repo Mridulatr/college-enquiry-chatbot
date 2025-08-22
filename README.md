@@ -4,7 +4,7 @@
 A lightweight FAQ chatbot for **NSS College of Engineering (NSSCE)** built with **Python**, **TF‑IDF**, and **Streamlit**.
 
 ## ✨ Features
-- Answers common questions (admissions, affiliation, contacts, etc.) from a small FAQ dataset
+- Answers questions related to admissions, affiliation, contacts, etc from a FAQ dataset
 - TF‑IDF + cosine similarity for matching
 - Shows helpful suggestions when confidence is low
 - Easily extendable by editing `faq_data.json`

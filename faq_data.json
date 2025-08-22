@@ -1,0 +1,70 @@
+[
+  {
+    "question": "When was NSSCE established?",
+    "answer": "NSS College of Engineering was founded in 1960 by the Nair Service Society."
+  },
+  {
+    "question": "Which university is NSSCE affiliated with?",
+    "answer": "NSSCE is affiliated with APJ Abdul Kalam Technological University (KTU)."
+  },
+  {
+    "question": "Where is NSSCE located?",
+    "answer": "NSS College of Engineering is located in Palakkad, Kerala, India."
+  },
+  {
+    "question": "What is the official website of NSSCE?",
+    "answer": "The official website is https://www.nssce.ac.in/"
+  },
+  {
+    "question": "Who can I contact for admission enquiries?",
+    "answer": "You can contact the Admission Enquiry number: +91-8301095255."
+  },
+  {
+    "question": "How can I contact the placement cell?",
+    "answer": "You can reach the Placement Cell Coordinator at +91-9495986645 or placement@nssce.ac.in."
+  },
+  {
+    "question": "Which B.Tech branches are offered at NSSCE?",
+    "answer": "B.Tech branches typically include Civil, Mechanical, Electrical & Electronics (EEE), Electronics & Communication (ECE), Instrumentation & Control, and Computer Science & Engineering (CSE). For the latest list and intake, please refer to the official website."
+  },
+  {
+    "question": "Which M.Tech specializations are offered at NSSCE?",
+    "answer": "M.Tech specializations commonly include Communication Engineering, Power Electronics, Computer Science & Engineering, Structural Engineering, and Computer-Integrated Manufacturing. For current offerings, please verify on the official website."
+  },
+  {
+    "question": "Does NSSCE provide hostel facilities?",
+    "answer": "Hostel facilities are generally available. For availability and fee details, please contact the college office via the official website."
+  },
+  {
+    "question":"What extracurricular activities are available?",
+    "answer": "Students participate in cultural fests, technical fests, clubs (IEEE, IETE, ISTE), and NSS/NCC units."
+  },
+
+{
+"question":"What is the motto of NSSCE?",
+"answer":"Knowledge is Power."
+},
+{
+"question":"Is there a library in NSSCE?",
+"answer":"Yes, the Central Library has a large collection of books, journals, and digital resources."
+
+},
+{
+"question":"Who is the principal of NSSCE?",
+"answer":"Please refer to the official website for the current principal’s name."
+
+},
+{
+  "question":"What is the admission process for B.Tech at NSSCE?",
+  "answer":"Admission is through the Kerala Engineering Entrance Examination (KEAM) conducted by the Commissioner of Entrance Exams."
+},
+{
+"question":"How many seats are available for B.Tech at NSSCE?",
+"answer":"The intake varies by branch, typically 60 seats per discipline. Please check the official admission notice."
+
+},
+  {
+    "question": "How do I reach the college by phone or email?",
+    "answer": "Please refer to the Contact page on the official website for general contact numbers and email addresses."
+  }
+]
